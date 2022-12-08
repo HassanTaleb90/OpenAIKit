@@ -6,6 +6,7 @@
 [![Swift](https://github.com/MarcoDotIO/OpenAIKit/actions/workflows/swift.yml/badge.svg?branch=main)](https://github.com/MarcoDotIO/OpenAIKit/actions/workflows/swift.yml)
 
 OpenAIKit is a community-maintained API for the OpenAI REST endpoint used to get output data from Dall-E 2 and GPT-3 models.
+Note: This following branch (stream-dev) is a development branch meant to implement streaming data for the GPT-3 and Fine-Tune endpoints. Anyone is welcome to make a pull request on this branch if their implementation will function perfectly.
 
 - [Features](#features)
 - [ToDo](#todo)
